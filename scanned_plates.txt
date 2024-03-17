@@ -1,0 +1,12 @@
+Hello, world!
+This is a test.
+Writing to a text file in Python.
+HR26D8337
+R260K8337
+HR26DK8337
+SMJ 368|H
+
+HR26DK8337
+{'Credits': 69, 'NumPlate': 'HR26DK8337', 'name': 'Devansh Matha'}
+HR26DK8337
+{'Credits': 69, 'NumPlate': 'HR26DK8337', 'name': 'Devansh Matha'}
